@@ -49,7 +49,9 @@ I decided on using the YOLOv5 Model due to its small size and high speed of clas
 
 
 ---
+
 To Train the model on the dataset, fork the repo,  run the ```solar_panel_defect_detection.ipynb``` notebook on google colab with the appropriate credentials.
+
 ---
 
 
