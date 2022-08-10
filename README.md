@@ -42,7 +42,14 @@ This meant the training dataset fed to the model had 1800 images after tiling an
 
 I decided on using the YOLOv5 Model due to its small size and high speed of classiifcation, that is trained with a Generalized Intersection over Union loss function, which initially increases the predicted bounding box's size and slowly moves towards the ground truth.This achieves better precision, since we are using bounding boxes of regular aspect ratios and in general have non-overlapping classes.
 
+---
 
+
+# **Training**
+
+
+---
+To Train the model on the dataset, fork the repo,  run the ```solar_panel_defect_detection.ipynb``` notebook on google colab with the appropriate credentials.
 ---
 
 
