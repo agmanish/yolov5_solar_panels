@@ -46,3 +46,29 @@ I decided on using the YOLOv5 Model due to its small size and high speed of clas
 ---
 
 
+# **RESULTS**
+
+
+---
+
+
+### **CONFUSION MATRIX**
+<img src='https://drive.google.com/uc?id=1Yiuqn9PipGX7FEx0GKemSauTfSf0tElv'>
+
+
+---
+
+
+### **Precision vs Recall Curve**
+<img src='https://drive.google.com/uc?id=12p4TRUDz_2_tL-n-zb-p3jbsdqELzPrO'>
+
+
+---
+
+
+### **Training and Validation Results**
+<img src='https://drive.google.com/uc?id=1FWv6ODXdoENxg4M6RX1w0CujNOE5nuNn'>
+
+
+---
+
